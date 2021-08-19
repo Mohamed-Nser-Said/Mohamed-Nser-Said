@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Mohamed-Nser-Said
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning ML
 
 - 📫 How to reach me Mohamed.Nser.Said@gmail.com
 
